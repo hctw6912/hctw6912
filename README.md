@@ -8,6 +8,10 @@
   🐍 <strong>Python Proficient</strong>
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/your-username/healthcare-java-banner.png" alt="Healthcare & Java Banner" width="90%" />
+</p>
+
 ---
 
 ## 🛠 Tech Stack

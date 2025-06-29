@@ -12,10 +12,12 @@ Aspiring Developer aiming to innovate in Sports Technology and Football IT <img 
 ```javascript
 const taewon = {
   pronouns: "he" | "him",
+  nationality: "South Korean",
   code: ["Python", "Java", "HTML", "CSS", "JavaScript"],
   tools: ["Git"],
   interests: ["Healthcare IT", "Digital Health Solutions", "AI", "Software Development"],
   currentlyLearning: "Java",
   goals: "To develop innovative digital solutions integrating technology and football",
-  funFact: "I believe caffeine is the real programming language."
+  funFact: "I believe caffeine is the real programming language.",
+  favoriteTeam: "Liverpool"
 }

@@ -12,10 +12,10 @@ Aspiring Developer focusing on Healthcare IT and Digital Solutions <img src="htt
 ```javascript
 const taewon = {
   pronouns: "he" | "him",
-  code: ["Python", "Java", "JavaScript", "HTML", "CSS"],
-  tools: ["FastAPI", "React", "Docker", "Git"],
+  code: ["Python", "Java", "HTML", "CSS", "JavaScript"],
+  tools: ["Git"],
   interests: ["Healthcare IT", "Digital Health Solutions", "AI", "Software Development"],
   currentlyLearning: "Java",
-  goals: "To integrate technology and healthcare for better patient outcomes",
-  funFact: "I once wrote a bug so tricky that even I needed a week to solve it."
+  goals: "To develop innovative digital solutions integrating technology and football",
+  funFact: "I believe caffeine is the real programming language."
 }

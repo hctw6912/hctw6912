@@ -4,7 +4,7 @@
   📚 Healthcare Convergence Major <br>
   💻 Aspiring Developer in Healthcare IT & Digital Solutions <br>
   🌱 Currently learning: Python, Java, Web Development <br>
-  📫 Contact me: [your-email@example.com]
+  📫 Contact me: [hong7585hoho@gmail.com]
 </p>
 
 ---

@@ -1,4 +1,7 @@
-<h1 align="center" style="color:#2D9CDB;">Hi 👋, I'm Taewon (hctw6912)</h1>
+<h1 align="center" style="color:#2D9CDB;">
+  Hi 👋, I'm Taewon (hctw6912) 
+  <img src="https://cdn.iconscout.com/icon/free/png-256/java-21-1174953.png" alt="Java Logo" width="30" height="30" style="vertical-align:middle; margin-left:8px;" />
+</h1>
 
 <p align="center">
   🩺 <strong>Healthcare Convergence Major</strong> <br>
@@ -11,15 +14,16 @@
 
 ## 🛠 Tech Stack
 
-- Programming: 
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
-  ![Java](https://img.shields.io/badge/Java-F89820?style=flat&logo=java&logoColor=white)
-- Web: 
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
+- Programming:  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+  ![Java](https://img.shields.io/badge/Java-F89820?style=flat&logo=java&logoColor=white)  
+  <img src="https://cdn.iconscout.com/icon/free/png-256/java-21-1174953.png" alt="Java Logo" width="24" height="24" style="vertical-align:middle; margin-left:6px;" />
+- Web:  
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- Tools: 
-  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
+- Tools:  
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---

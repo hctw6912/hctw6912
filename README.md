@@ -11,10 +11,10 @@ Aspiring Developer aiming to innovate in Sports Technology and Football IT <img 
 ```javascript
 const taewon = {
   pronouns: "he" | "him",
-  code: ["Python", "Java", "HTML", "CSS", "JavaScript"],
+  code: ["Python", "Java", "HTML", "CSS", "JavaScript",Kotlin],
   tools: ["Git"],
   interests: ["Healthcare IT", "Digital Health Solutions", "AI", "Software Development"],
-  currentlyLearning: "Java",
+  currentlyLearning: "Kotlin",
   goals: "To develop innovative digital solutions integrating technology and football",
   funFact: "I believe caffeine is the real programming language."
 }
